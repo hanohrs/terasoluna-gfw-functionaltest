@@ -266,6 +266,7 @@
     <db2jcc4.version>4.21.29</db2jcc4.version>
     <selenium.version>2.46.0</selenium.version>
     <io.spring.platform.version>Brussels-SR3</io.spring.platform.version>
+    <org.mybatis.version>3.4.5-SNAPSHOT</org.mybatis.version>
     <!-- == Project Properties == -->
     <project.env.main.directory>src/main</project.env.main.directory>
     <project.env.buildFinalName>${project.artifactId}-${project.version}</project.env.buildFinalName>
